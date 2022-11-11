@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+#join-form{
+    background-color: #606060;
+    width: fit-content;
+    height: fit-content;
+    padding: 30px;
+    display: block;
+    align-self: center;
+    justify-self: center;
+    border-radius: 10px;
+    margin: auto;
+}
