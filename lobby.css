@@ -11,4 +11,13 @@ body{
     justify-self: center;
     border-radius: 10px;
     margin: auto;
+    z-index: 999;
+}
+img{
+    top: 0%;
+    position: absolute;
+    width: 99vw;
+    height: 100vh;
+    
+
 }
